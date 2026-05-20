@@ -5,7 +5,9 @@ When I'm not coding I'm either on the golf course or deep in a League of Legends
 What I'm working with:
 
 🗄️ SQL & SQLite — relational database design, CRUD operations, schema design
+
 🐍 Python — CLI applications, database integration
+
 🔧 Git & GitHub — version control, project documentation
 
 Currently building: A golf performance tracker with Python and SQLite — tracking rounds, scores relative to par, and performance trends over time.
