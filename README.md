@@ -16,7 +16,6 @@ Python, SQL, Snowflake (including Cortex vector search), dbt, Airflow (Astronome
 ## Links
 
 - Website: [haosun.dev](https://haosun.dev)
-- LinkedIn: [linkedin.com/in/hao-s-1560212b2](https://www.linkedin.com/in/hao-s-1560212b2)
 - Email: jacksunruo@hotmail.com
 
 When I'm not coding I'm either on the golf course or deep in a League of Legends match, both involving more strategy than they look like from the outside.
